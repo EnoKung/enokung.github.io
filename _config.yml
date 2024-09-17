@@ -21,9 +21,6 @@ author: Eno Kung,Yue,LCH
 
 navbar-links:
   關於我們: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   聯絡方式: "contact"
 
 ################
