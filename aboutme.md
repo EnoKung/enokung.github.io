@@ -1,15 +1,32 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 關於我們
+subtitle: 這行字用來簡述公司在幹嘛
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+author: Eno
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# 服務一
 
+## 細項甲
 - I rock a great mustache
-- I'm extremely loyal to my family
+    - I'm extremely loyal to my family
+    - I'm extremely loyal to my family
+- I rock a great mustache
+    - I'm extremely loyal to my family
+        - I'm extremely loyal to my family
 
-What else do you need?
+## 細項乙
+- I rock a great mustache
+    - I'm extremely loyal to my family
+    - I'm extremely loyal to my family
+
+
+### 案例
+縮圖可以隨便替換，也可以插入圖片
+
 
 ### My story
 
